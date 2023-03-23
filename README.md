@@ -79,7 +79,7 @@ After you're finished please remove all the comments and instructions!
    2)  CSS
 
 ### Tech Stack <a name="tech-stack"></a>
-> Describe the tech stack and include only the relevant sections that apply to your project.
+>
 
 <details>
   <summary>Client</summary>
@@ -105,7 +105,6 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-> Describe between 1-3 key features of the application.
 
 - **[HTML]**
 - **[CSS]**
@@ -116,7 +115,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Soon]
 
@@ -126,14 +124,12 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-My goal here is to master all of the tools and best practices I learned about in previous steps.
-
 Accessibility List:
 
 List all points that you have checked, i.e:
 
     1) Page title
+    2) Copy my link to your local folder and I recommend to us VS code with it.
 
 To get a local copy up and running, follow these steps.
 
@@ -154,6 +150,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
+1) Can open it with the help of Vs code.
 
 <!--
 Example commands:
@@ -167,7 +164,9 @@ Example commands:
 ### Install
 
 Install this project with:
-
+1)Open GitBash 
+  cd my-project
+  gem install.
 <!--
 Example command:
 
@@ -180,6 +179,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
+
 
 <!--
 Example command:
@@ -219,7 +219,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Minhaz Uddin**
 
@@ -227,11 +226,6 @@ Example:
 - Twitter: [@minhaz_uddin_]
 - LinkedIn: [Minhaz Uddin]
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -239,11 +233,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]** None I guess.
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ]  None I guess.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -261,7 +252,6 @@ Feel free to check the.... [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project feel free to go through it and comment....
 
@@ -271,7 +261,6 @@ If you like this project feel free to go through it and comment....
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my family to encourage me for taking this step.
 
